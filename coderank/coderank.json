@@ -18550,6 +18550,14 @@
     },
     "31": {
       "machines": {
+        "3f2ec4ac-6991-47d8-9eb2-090897dbb978": {
+          "name": "home-laptop",
+          "editors": {
+            "VS Code": {
+              "languages": {}
+            }
+          }
+        },
         "f41aceea-8311-4533-b957-bc0df76ce7d4": {
           "name": "ellco-work-macbook",
           "editors": {
